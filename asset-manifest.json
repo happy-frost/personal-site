@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.e23a36c6.css",
+    "main.js": "/personal-site/static/js/main.48d63161.js",
+    "static/js/818.737f2cf7.chunk.js": "/personal-site/static/js/818.737f2cf7.chunk.js",
+    "static/js/996.25220966.chunk.js": "/personal-site/static/js/996.25220966.chunk.js",
+    "static/js/807.0e2af640.chunk.js": "/personal-site/static/js/807.0e2af640.chunk.js",
+    "static/js/900.bbec8e99.chunk.js": "/personal-site/static/js/900.bbec8e99.chunk.js",
+    "static/js/899.2235a50a.chunk.js": "/personal-site/static/js/899.2235a50a.chunk.js",
+    "static/js/295.2008613e.chunk.js": "/personal-site/static/js/295.2008613e.chunk.js",
+    "static/js/147.5961d603.chunk.js": "/personal-site/static/js/147.5961d603.chunk.js",
+    "static/js/27.d9430cdb.chunk.js": "/personal-site/static/js/27.d9430cdb.chunk.js",
+    "static/js/574.1dd316af.chunk.js": "/personal-site/static/js/574.1dd316af.chunk.js",
+    "index.html": "/personal-site/index.html",
+    "static/media/about.md": "/personal-site/static/media/about.8bb48458c2a981fd7366.md",
+    "main.e23a36c6.css.map": "/personal-site/static/css/main.e23a36c6.css.map",
+    "main.48d63161.js.map": "/personal-site/static/js/main.48d63161.js.map",
+    "818.737f2cf7.chunk.js.map": "/personal-site/static/js/818.737f2cf7.chunk.js.map",
+    "996.25220966.chunk.js.map": "/personal-site/static/js/996.25220966.chunk.js.map",
+    "807.0e2af640.chunk.js.map": "/personal-site/static/js/807.0e2af640.chunk.js.map",
+    "900.bbec8e99.chunk.js.map": "/personal-site/static/js/900.bbec8e99.chunk.js.map",
+    "899.2235a50a.chunk.js.map": "/personal-site/static/js/899.2235a50a.chunk.js.map",
+    "295.2008613e.chunk.js.map": "/personal-site/static/js/295.2008613e.chunk.js.map",
+    "147.5961d603.chunk.js.map": "/personal-site/static/js/147.5961d603.chunk.js.map",
+    "574.1dd316af.chunk.js.map": "/personal-site/static/js/574.1dd316af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e23a36c6.css",
+    "static/js/main.48d63161.js"
+  ]
+}
