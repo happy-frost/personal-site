@@ -13,7 +13,7 @@ const data = [
   {
     title: 'Geocaching Android Application',
     subtitle: 'Android Application with Geocaching Puzzle',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/geocaching.png',
     date: 'Feb 2024 - May 2024',
     desc:
       'A puzzle with geocaching and computer vision build on android studio',

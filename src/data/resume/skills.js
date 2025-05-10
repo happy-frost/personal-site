@@ -117,7 +117,7 @@ const skills = [
   {
     title: 'MATLAB',
     competency: 3,
-    category: ['Languages'],
+    category: ['Languages', 'Data Science'],
   },
   {
     title: 'Data Visualization',
@@ -133,6 +133,26 @@ const skills = [
     title: 'Matplotlib',
     competency: 2,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
+  },
+  {
+    title: 'Solidworks',
+    competency: 2,
+    category: ['3D Modelling', 'Finite Element Analysis'],
+  },
+  {
+    title: 'KICAD',
+    competency: 2,
+    category: ['Electronics Design Automation'],
+  },
+  {
+    title: 'Tableau',
+    competency: 2,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Visual Basic Applications',
+    competency: 2,
+    category: ['Language'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
@@ -150,6 +170,9 @@ const colors = [
   '#d75858',
   '#747fff',
   '#64cb7b',
+  '#ffa500',
+  '#20c997',
+  '#845ec2',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]

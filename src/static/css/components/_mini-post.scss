@@ -48,7 +48,8 @@
   margin: 0 0 _size(element-margin);
 
   .image {
-    overflow: hidden;
+    overflow: contain;
+    aspect-ratio: 16 / 9;
     width: 100%;
 
     img {
