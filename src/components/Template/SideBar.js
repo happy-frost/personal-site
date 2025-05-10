@@ -3,18 +3,18 @@ import { Link } from 'react-router-dom';
 
 import ContactIcons from '../Contact/ContactIcons';
 
-const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+// const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/" className="logo">
+      {/* <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
-      </Link>
+      </Link> */}
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Anisha Singh Le Shuang</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:anishasinghleshuang.asls@gmail.com">anishasinghleshuang.asls@gmail.com</a>
         </p>
       </header>
     </section>
@@ -22,13 +22,13 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I&apos;m Anisha. I&apos;m an engineer who enjoys exploring new tools and techniques
+        to build solutions that solve real-world problems in smarter, more efficient ways.
+        I believe that for technology to make a meaningful impact, it needs to be widely adopted
+        — which is why I pursued a dual degree in engineering and business.
+        I&apos;m driven by a desire to deeply understand the tools I work with,
+        and I enjoy diving into the technical details to create solutions that are both
+        innovative and practical.
       </p>
       <ul className="actions">
         <li>

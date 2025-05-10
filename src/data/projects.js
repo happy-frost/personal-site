@@ -1,47 +1,33 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Incredible Odyssey Website',
+    subtitle: 'Travel Agency Website',
+    link: 'https://www.incredibleodyssey.com/',
+    image: '/images/projects/incredibleodyssey.png',
+    date: 'Mar 2025 - Present',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built a Website for a Travel Agency with a Content Management System.'
+      + 'It is still a work in progress.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    title: 'Geocaching Android Application',
+    subtitle: 'Android Application with Geocaching Puzzle',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    date: 'Feb 2024 - May 2024',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A puzzle with geocaching and computer vision build on android studio',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Sustainable Smart Mushroom Farm',
+    subtitle: 'Hypha Sustainable Smart Mushroom Farm',
+    link: 'https://capstone2022.sutd.edu.sg/projects/hypha-sustainable-smart-mushroom-farm',
+    image: '/images/projects/hypha.jpg',
+    date: 'Jan 2022 - Aug 2022',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Out Capstone project that won second place, Hypha was created to transform food manufacturing by-products into mushrooms.'
+      + ' We developed a highly sanitised facility to grow mushrooms from food manufacturing by-products '
+      + 'instead of the conventional sawdust and straw normally used to grow mushrooms. ',
   },
 ];
 
